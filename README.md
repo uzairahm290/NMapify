@@ -7,7 +7,7 @@ NMapify is an interactive drag-and-drop game for learning and practicing NMap co
 - Drag-and-drop command builder (mouse, keyboard, and touch support)
 - Modern UI with dark mode and progress bar
 - Explanations for each answer
-- End-of-game celebration with confetti and congratulatory message
+- End-of-game celebration with confetti and congratulations message
 
 ## How to Play
 1. Read the scenario at the top.
@@ -16,9 +16,6 @@ NMapify is an interactive drag-and-drop game for learning and practicing NMap co
 4. Get instant feedback and explanations.
 5. Complete all 10 questions to see your score and a celebration!
 6. Refresh the page to play again with a new set of questions.
-
-## Screenshots
-<!-- Add screenshots here if desired -->
 
 ## Tech Stack
 - HTML, CSS (with Orbitron/Roboto fonts)
@@ -31,10 +28,5 @@ NMapify is an interactive drag-and-drop game for learning and practicing NMap co
 
 ## Contributing
 Pull requests and suggestions are welcome! Please open an issue to discuss changes or new features.
-
-## License
-MIT License
-
----
 
 **Created by ShadowBYte for educational purposes.** 
