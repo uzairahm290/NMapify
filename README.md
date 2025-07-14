@@ -2,6 +2,8 @@
 
 NMapify is an interactive drag-and-drop game for learning and practicing NMap command syntax. Assemble the correct NMap command from draggable pieces to solve real-world scanning scenarios. Great for cybersecurity students, CTF players, and anyone wanting to master NMap!
 
+Live Preview : https://uzairahm290.github.io/NMapify/
+
 ## Features
 - 10 random questions per game from a large question bank
 - Drag-and-drop command builder (mouse, keyboard, and touch support)
